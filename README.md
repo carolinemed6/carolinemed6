@@ -2,44 +2,62 @@
 
 ### ☁️ Cloud Computing • 🤖 AI & Robotics • 🧠 Computer Vision
 
-I'm a first-generation college student pursuing a **Bachelor of Applied Technology in Cloud Computing** at Northwest Vista College, graduating in **December 2026**.
+I'm a **Cloud Computing student and technology researcher** at Northwest Vista College, pursuing a **Bachelor of Applied Technology in Cloud Computing** and graduating in **December 2026**.
 
-I enjoy building technology at the intersection of **cloud computing, artificial intelligence, robotics, and IT infrastructure** — especially projects where software has to interact with the physical world.
+I create at the intersection of **cloud infrastructure, artificial intelligence, robotics, IoT, and IT systems**. My experience ranges from training computer-vision models and connecting robotic systems to AWS, to supporting on-premises infrastructure and broadcast technology.
 
-I'm currently building my skills in **AWS, computer vision, IoT, Python, Linux, and automation** while preparing for the next step in my career.
+I'm especially interested in building technology that connects **software, data, and the physical world**.
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Featured Projects
 
 ### 🌱 AI-Powered Crop Inspection, Sorting & Packaging
 
 **YOLOv11 · Roboflow · Intel RealSense · uFactory xArm5 · AWS IoT Core · MQTT · DynamoDB · Streamlit**
 
-USDA-funded REEU research project developed at UTSA combining computer vision, robotics, and cloud computing to automate agricultural inspection and sorting.
+USDA-funded REEU research project at UTSA combining **computer vision, robotics, and cloud computing** to automate agricultural inspection and sorting.
 
-My work focused on:
+**My contributions:**
 
-- 🧠 Preparing and training a custom fruit-detection dataset with Roboflow and YOLOv11
-- 📡 Building MQTT telemetry workflows with AWS IoT Core
-- ☁️ Storing robotic system data in DynamoDB
-- 📊 Developing a Streamlit dashboard for real-time system monitoring
-- 🧪 Testing and troubleshooting the end-to-end system
-- 🎤 Co-presenting our research at the UTSA College of AI, Cyber and Computing Summer Symposium
+- 🧠 Prepared and annotated a custom 7-class fruit dataset using **Roboflow**
+- 🎯 Trained and evaluated **YOLOv11** for fruit detection and classification
+- 📡 Implemented **MQTT telemetry** through AWS IoT Core
+- ☁️ Stored robotic system data in **DynamoDB**
+- 📊 Built a **Streamlit dashboard** for real-time system monitoring
+- 🧪 Conducted end-to-end testing and troubleshooting
+- 🎤 Co-presented research at the **UTSA College of AI, Cyber and Computing Summer Symposium**
 
-**→ [View the REEU project](https://github.com/carolinemed6/REEUSorting)**
+**→ [View Project](https://github.com/carolinemed6/REEUSorting)**
 
 ---
 
-## ☁️ Cloud & AI Projects
-
-### 💻 NVC AI & Cloud Technology Club
+### ☁️ NVC AI & Cloud Technology Club
 
 **AWS · S3 · Lambda · Amazon Bedrock · API Gateway**
 
-A student-built cloud project exploring the integration of AWS services with AI-powered applications.
+A student-built cloud application exploring the integration of **AWS services and AI**.
 
-**Currently documenting and expanding the project for my portfolio.**
+**→ Project documentation coming soon**
+
+---
+
+### 👗 AI Wardrobe — In Development
+
+**Python · Computer Vision · YOLO · Recommendation Systems**
+
+A personal project exploring how computer vision and AI can help users **understand, organize, and use the clothing they already own**.
+
+Planned capabilities include:
+
+- 📸 Analyze clothing from personal photos
+- 👕 Detect and categorize clothing items
+- ⭐ Learn personal style preferences
+- 👗 Recommend outfits from owned items
+- 🧠 Rank clothing and outfit combinations based on user preferences
+- 📱 Build a simple interface for managing a digital wardrobe
+
+**Currently in the concept and prototyping stage.**
 
 ---
 
@@ -47,72 +65,53 @@ A student-built cloud project exploring the integration of AWS services with AI-
 
 **Linux · Hardware · System Configuration**
 
-A personal hardware project involving the setup and configuration of a small computer system.
+A personal hardware project focused on building and configuring a small computer system.
 
-**Documentation coming soon.**
-
----
-
-### 👗 AI Wardrobe — In Development
-
-**Python · Computer Vision · YOLO · Personal Recommendation System**
-
-A personal computer-vision project exploring how AI can help users organize and understand their own wardrobe.
-
-The concept includes:
-
-- 📸 Using personal clothing photos
-- 👕 Detecting and categorizing clothing
-- ⭐ Ranking items based on personal preferences
-- 👗 Building outfits from clothing the user already owns
-- 🧠 Learning what styles the user prefers
-- 📱 Creating a simple interface for interacting with the wardrobe
-
-**Currently in the planning and prototyping stage.**
+**→ Project documentation coming soon**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Stack
 
-### ☁️ Cloud & Infrastructure
-AWS · EC2 · S3 · IAM · VPC · IoT Core · Lambda · CloudWatch · DynamoDB
+### ☁️ Cloud
+`AWS` · `EC2` · `S3` · `IAM` · `VPC` · `Lambda` · `IoT Core` · `CloudWatch` · `DynamoDB`
 
 ### 🧠 AI & Computer Vision
-YOLOv11 · Roboflow · Intel RealSense
+`YOLOv11` · `Roboflow` · `Intel RealSense`
 
 ### 💻 Programming & Systems
-Python · C++ · Linux/Bash · Git
+`Python` · `C++` · `Linux/Bash` · `Git`
 
 ### 📡 IoT & Data
-MQTT · Streamlit · Real-Time Telemetry
+`MQTT` · `Streamlit` · `Real-Time Telemetry`
 
-### 🔧 IT & Technical Operations
-On-Premises Infrastructure · Hardware Troubleshooting · Asset Management · Servers · Networking · Broadcast Systems
+### 🔧 IT & Infrastructure
+`Servers` · `Networking` · `Hardware Troubleshooting` · `Asset Management` · `On-Premises Infrastructure` · `Broadcast Systems`
 
 ### 🧰 Tools
-AssetTiger · WideOrbit · Microsoft Office · Adobe Audition
+`AssetTiger` · `WideOrbit` · `Microsoft Office` · `Adobe Audition`
 
 ---
 
-## 🔬 Research Experience
+## 🔬 Research
 
 ### USDA REEU Research Fellow — UTSA
 
 **AI · Robotics · Computer Vision · Cloud Computing**
 
-Developed an AI-powered robotic crop inspection and sorting system as part of the USDA Research Experience for Undergraduates program.
+Developed an AI-powered robotic crop inspection, sorting, and packaging system integrating computer vision, robotic automation, and cloud telemetry.
 
 ### Research Intern — St. Mary's University
 
 **3D Printing · Engineering Research · Data Collection**
 
-Worked on research involving 3D-printed materials, animal enrichment devices, experimental data collection, and 3D scanning applications.
+Conducted engineering and research work involving 3D-printed materials, animal enrichment devices, experimental data collection, and 3D scanning.
 
 ### Research Intern — CONNECT, UTSA
 
-**Technical Documentation · Engineering · Risk Assessment**
+**Engineering · Risk Assessment · Technical Documentation**
 
-Developed user-focused training materials for beta software supporting aircraft structural risk-assessment workflows.
+Developed user-focused training materials for beta software supporting aircraft structural risk-assessment workflows and translated complex engineering concepts into accessible documentation.
 
 ---
 
@@ -120,52 +119,61 @@ Developed user-focused training materials for beta software supporting aircraft 
 
 ### Texas Public Radio
 
-As a Broadcast Engineer / IT Intern, I work with **on-premises IT and broadcast infrastructure** supporting radio and digital operations.
+**Broadcast Engineer / IT Intern · June 2025 – Present**
 
-My experience includes:
+Support on-premises IT and broadcast infrastructure across radio and digital operations.
+
+Experience includes:
 
 - 🖥️ Servers and workstations
 - 🌐 Routers and network-connected equipment
-- 🎙️ Microphones, speakers, and broadcast hardware
+- 🎙️ Microphones, speakers, and broadcast equipment
 - 🔧 Hardware troubleshooting and replacement
-- 💻 Laptop deployment and onboarding
+- 💻 Laptop deployment, onboarding, and returns
 - 📦 Equipment inventory and asset management
 - 📡 Broadcast systems and WideOrbit
-- 🛠️ Infrastructure maintenance and technical support
+- 🛠️ Infrastructure maintenance and engineering support
 
 ---
 
-## 🎯 Currently
+## 🎯 Current Focus
 
-🎓 Completing my **B.A.T. in Cloud Computing**
-
-☁️ Preparing for **AWS certifications**
-
-🌐 Building my **personal cloud portfolio**
-
-🤖 Expanding my experience in **AI, computer vision, and robotics**
-
-👗 Prototyping an **AI-powered wardrobe application**
-
-💻 Building and documenting personal engineering projects
+🎓 **B.A.T. in Cloud Computing** — Northwest Vista College  
+☁️ **AWS certifications**  
+🌐 **Personal cloud portfolio**  
+🤖 **AI, computer vision & robotics**  
+👗 **AI-powered wardrobe application**  
+💻 **Personal engineering projects**
 
 ---
 
-## 🌟 Beyond Technology
+## 🌟 Leadership & Community
 
-I'm also involved with the **Northwest Vista College AI & Cloud Technology Club.**
+**Northwest Vista College AI & Cloud Technology Club**  
+Member · Cloud & AI outreach
 
-I'm also a **Public Relations Chair for the Providence Alumnae Association**, where I work on communications, events, and digital outreach.
+**Providence Alumnae Association**  
+Public Relations Chair · Communications & Digital Outreach
 
 ---
 
-## 📫 Let's Connect
+## 📈 What's Next
 
-**LinkedIn:** [Caroline Medina]((https://www.linkedin.com/in/caroline-medina-/)
+I'm currently preparing for the next step in my career while continuing to build experience across:
+
+**Cloud Computing → AI → Robotics → IoT → IT Infrastructure**
+
+I'm interested in opportunities where I can **build, troubleshoot, learn, and turn ideas into working systems.**
+
+---
+
+## 📫 Connect With Me
+
+**LinkedIn:** [Caroline Medina](https://www.linkedin.com/in/caroline-medina-/)
 
 **GitHub:** [@carolinemed6](https://github.com/carolinemed6)
 
-📧 **Email:** medina.caroline42@gmail.com
+**Email:** [medina.caroline42@gmail.com](mailto:medina.caroline42@gmail.com)
 
 ---
 
