@@ -153,7 +153,7 @@ My experience includes:
 
 ## 🌟 Beyond Technology
 
-I'm also involved with the **Northwest Vista College AI & Cloud Technology Club**, where I help introduce students to cloud computing and technology.
+I'm also involved with the **Northwest Vista College AI & Cloud Technology Club.**
 
 I'm also a **Public Relations Chair for the Providence Alumnae Association**, where I work on communications, events, and digital outreach.
 
