@@ -38,7 +38,7 @@ USDA-funded REEU research project at UTSA combining **computer vision, robotics,
 
 A student-built cloud application exploring the integration of **AWS services and AI**.
 
-**→ Project documentation coming soon**
+**→ [View Project](https://www.nvcwildcats.com/)**
 
 ---
 
