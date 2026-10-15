@@ -174,7 +174,7 @@ I'm interested in opportunities where I can **build, troubleshoot, learn, and tu
 
 ## 📫 Connect With Me
 
-**LinkedIn:** [Caroline Medina](https://www.linkedin.com/in/caroline-medina-/)
+**LinkedIn:** [Caroline Medina](https://www.linkedin.com/in/caroline-medina6/)
 
 **GitHub:** [@carolinemed6](https://github.com/carolinemed6)
 
