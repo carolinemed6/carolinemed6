@@ -139,8 +139,11 @@ Experience includes:
 ## 🎯 Current Focus
 
 🎓 **B.A.T. in Cloud Computing** — Northwest Vista College 
+
    **A.A.S. in Network & Cloud Architecture**
+
    **A.S. in Computer Science**
+
 ☁️ **AWS certifications**  
 🌐 **Personal cloud portfolio**  
 🤖 **AI, computer vision & robotics**  
