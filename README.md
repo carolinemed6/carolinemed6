@@ -67,7 +67,7 @@ Planned capabilities include:
 
 A personal hardware project focused on building and configuring a small computer system.
 
-**→ Project documentation coming soon**
+**→ [View Project](https://github.com/carolinemed6/EverLocket)**
 
 ---
 
