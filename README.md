@@ -1,4 +1,4 @@
-# Hi, I'm Caroline! 👋
+# Hi, I'm Caroline! 
 
 ### ☁️ Cloud Computing • 🤖 AI & Robotics • 🧠 Computer Vision
 
@@ -20,13 +20,13 @@ USDA-funded REEU research project at UTSA combining **computer vision, robotics,
 
 **My contributions:**
 
-- 🧠 Prepared and annotated a custom 7-class fruit dataset using **Roboflow**
-- 🎯 Trained and evaluated **YOLOv11** for fruit detection and classification
-- 📡 Implemented **MQTT telemetry** through AWS IoT Core
-- ☁️ Stored robotic system data in **DynamoDB**
-- 📊 Built a **Streamlit dashboard** for real-time system monitoring
-- 🧪 Conducted end-to-end testing and troubleshooting
-- 🎤 Co-presented research at the **UTSA College of AI, Cyber and Computing Summer Symposium**
+-  Prepared and annotated a custom 7-class fruit dataset using **Roboflow**
+-  Trained and evaluated **YOLOv11** for fruit detection and classification
+-  Implemented **MQTT telemetry** through AWS IoT Core
+-  Stored robotic system data in **DynamoDB**
+-  Built a **Streamlit dashboard** for real-time system monitoring
+-  Conducted end-to-end testing and troubleshooting
+-  Co-presented research at the **UTSA College of AI, Cyber and Computing Summer Symposium**
 
 **→ [View Project](https://github.com/carolinemed6/REEUSorting)**
 
@@ -125,30 +125,30 @@ Support on-premises IT and broadcast infrastructure across radio and digital ope
 
 Experience includes:
 
-- 🖥️ Servers and workstations
-- 🌐 Routers and network-connected equipment
-- 🎙️ Microphones, speakers, and broadcast equipment
-- 🔧 Hardware troubleshooting and replacement
-- 💻 Laptop deployment, onboarding, and returns
-- 📦 Equipment inventory and asset management
-- 📡 Broadcast systems and WideOrbit
-- 🛠️ Infrastructure maintenance and engineering support
+- Servers and workstations
+- Routers and network-connected equipment
+- Microphones, speakers, and broadcast equipment
+- Hardware troubleshooting and replacement
+- Laptop deployment, onboarding, and returns
+- Equipment inventory and asset management
+- Broadcast systems and WideOrbit
+- Infrastructure maintenance and engineering support
 
 ---
 
 ## 🎯 Current Focus
 
-🎓 **B.A.T. in Cloud Computing** — Northwest Vista College 
+ **B.A.T. in Cloud Computing** — Northwest Vista College 
 
    **A.A.S. in Network & Cloud Architecture**
 
    **A.S. in Computer Science**
 
-☁️ **AWS certifications**  
-🌐 **Personal cloud portfolio**  
-🤖 **AI, computer vision & robotics**  
-👗 **AI-powered wardrobe application**  
-💻 **Personal engineering projects**
+   **AWS certifications**  
+   **Personal cloud portfolio**  
+   **AI, computer vision & robotics**  
+   **AI-powered wardrobe application**  
+   **Personal engineering projects**
 
 ---
 
